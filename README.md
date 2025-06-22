@@ -31,7 +31,7 @@ A Flutter application for creating and managing product quotes. This app allows 
 
 1.  Clone the repository:
     ```sh
-    git clone https://github.com/your-username/product_quote_builder.git
+    git clone https://github.com/nency09/productQuoteBuilder.git
     ```
 2.  Navigate to the project directory:
     ```sh
